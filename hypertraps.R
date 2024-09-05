@@ -1,3 +1,5 @@
+# this is HyperTraPS
+
 require(Rcpp)
 require(ggplot2)
 require(ggpubr)
